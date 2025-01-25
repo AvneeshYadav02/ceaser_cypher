@@ -24,29 +24,23 @@ The Caesar cipher shifts the letters in the alphabet by a given number (shift). 
 
 ### Example 1: Encoding
 
-Type 'encode' to encrypt, type 'decode' to decrypt: encode Type your message: hello world Type the shift number: 3 Here's your encrypted text: khoor zruog
-
-shell
-Copy
-Edit
+Type 'encode' to encrypt, type 'decode' to decrypt: encode 
+Type your message: hello world 
+Type the shift number: 3 
+Here's your encrypted text: khoor zruog
 
 ### Example 2: Decoding
 
-Type 'encode' to encrypt, type 'decode' to decrypt: decode Type your message: khoor zruog Type the shift number: 3 Here's the decoded text: hello world
-
-bash
-Copy
-Edit
+Type 'encode' to encrypt, type 'decode' to decrypt: decode 
+Type your message: khoor zruog 
+Type the shift number: 3 
+Here's the decoded text: hello world
 
 ## Installation
 
 Clone this repository to your local machine:
 
 git clone https://github.com/AvneeshYadav/caesar-cipher.git
-
-arduino
-Copy
-Edit
 
 Then, run the script with Python:
 
